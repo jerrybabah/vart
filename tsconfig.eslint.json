@@ -3,6 +3,7 @@
   "include": [
     "./src/**/*.ts",
     "./src/**/*.tsx",
-    "./.eslintrc.js"
+    "./.eslintrc.js",
+    "./vite.config.ts"
   ]
 }
